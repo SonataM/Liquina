@@ -4589,7 +4589,7 @@ var Da = "framer-oYeZ4"
                         __targetOpacity: 1,
                         className: "framer-xg4obx",
                         children: [e(cr, {
-                            href: "https://x.com/",
+                            href: "https://x.com/liquinia_eth",
                             nodeId: "H5kHlFB1M",
                             openInNewTab: !0,
                             children: e(O.a, {
@@ -4618,7 +4618,7 @@ var Da = "framer-oYeZ4"
                                 })
                             })
                         }), e(cr, {
-                            href: "https://t.me/",
+                            href: "https://t.me/liquinia_eth",
                             nodeId: "cLlFVA7BV",
                             openInNewTab: !0,
                             children: e(O.a, {
