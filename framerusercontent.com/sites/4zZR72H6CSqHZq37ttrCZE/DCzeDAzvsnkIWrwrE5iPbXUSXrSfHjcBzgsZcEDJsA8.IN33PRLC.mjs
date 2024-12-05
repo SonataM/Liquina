@@ -4647,7 +4647,7 @@ var Da = "framer-oYeZ4"
                                 })
                             })
                         }), e(cr, {
-                            href: "https://dexscreener.com/ethereum/0xComingSoon",
+                            href: "https://dexscreener.com/ethereum/0xd9e6f484f5cb1141383299c303841eb2080a4f57",
                             nodeId: "Rc_BYg4YG",
                             openInNewTab: !0,
                             children: e(O.a, {
