@@ -4589,7 +4589,7 @@ var Da = "framer-oYeZ4"
                         __targetOpacity: 1,
                         className: "framer-xg4obx",
                         children: [e(cr, {
-                            href: "https://x.com/liquina_ai",
+                            href: "https://x.com//LiquinaAI",
                             nodeId: "H5kHlFB1M",
                             openInNewTab: !0,
                             children: e(O.a, {
