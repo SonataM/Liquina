@@ -4618,7 +4618,7 @@ var Da = "framer-oYeZ4"
                                 })
                             })
                         }), e(cr, {
-                            href: "https://t.me/liquina_ai",
+                            href: "https://t.me/LiquinaAI",
                             nodeId: "cLlFVA7BV",
                             openInNewTab: !0,
                             children: e(O.a, {
